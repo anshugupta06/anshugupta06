@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshugupta06&label=Profile%20views&color=0e75b6&style=flat" alt="anshugupta06" /> </p>
 
-- 🔭 I am currently working on **Sentimental Analysis using wrapper and filter-based Bio-inspired Algorithms**
+- 🔭 I am currently working on **Smart Travel Planner Project**
 
-- 🌐 I am looking to collaborate on projects related to: **Machine Learning**
+- 🌐 I am looking to collaborate more projects related to: **Machine Learning**
 
 - 📚 Programming Languages : [Fundamentals of C & C++ along with the basic knowledge of Python and Java](Fundamentals of C & C++ along with the basic knowledge of Python and Java)
 
